@@ -6,7 +6,7 @@ context('Actions', () => {
   })
 
   // https://on.cypress.io/interacting-with-elements
-  // comment test
+  // comment test 
 
   it('.type() - type into a DOM element', () => {
     // https://on.cypress.io/type
